@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/meet_our_team_react_app/static/js/main.b46a1054.js",
+    "static/js/787.bf26233a.chunk.js": "/meet_our_team_react_app/static/js/787.bf26233a.chunk.js",
+    "static/media/person_03.jpg": "/meet_our_team_react_app/static/media/person_03.7aeba3b741e71c76d85b.jpg",
+    "static/media/person_04.jpg": "/meet_our_team_react_app/static/media/person_04.ac1e00314f2e89e3214a.jpg",
+    "static/media/person_01.jpg": "/meet_our_team_react_app/static/media/person_01.77afee95fbec78e7ee32.jpg",
+    "static/media/person_02.jpg": "/meet_our_team_react_app/static/media/person_02.89381ff28f99f950ddab.jpg",
+    "index.html": "/meet_our_team_react_app/index.html",
+    "main.b46a1054.js.map": "/meet_our_team_react_app/static/js/main.b46a1054.js.map",
+    "787.bf26233a.chunk.js.map": "/meet_our_team_react_app/static/js/787.bf26233a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b46a1054.js"
+  ]
+}
